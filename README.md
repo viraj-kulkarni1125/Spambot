@@ -5,9 +5,9 @@ What the spambot does is logs into messenger for you after requesting your usern
 This allows you to choose a target, what message to send, and how many messages to send them that message.
 
 # Prequisites
-Your resolution must be 1920x1080 and must have Mozilla Firefox. This does not currently work with other  You also need the latest version of python and you need git bash. You also need the packages:
--Selenium
--Pyautogui
+Your resolution must be 1920x1080 and must have [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/browsers/). This does not currently work with other  You also need the latest version of [Python 3.7](https://www.python.org/downloads/release/python-374/) and you need [Git BASH](https://gitforwindows.org/) which is a command-line interface (CLI). You also need the packages:
+- Selenium
+- Pyautogui
 
 # Installation of prerequisites
 So install python and git bash as normal by following through the installation process. In order to install the packages, you need a virtual environment.
