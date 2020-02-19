@@ -4,6 +4,8 @@ What the spambot does is logs into messenger for you after requesting your usern
 
 This allows you to choose a target, what message to send, and how many messages to send them that message.
 
+You need everything in the repository. DO NOT RUN THE *geckodriver.exe* file. This and the logs just merely need to be in the same folder as the spambot python script.
+
 # Prequisites
 Your resolution must be 1920x1080 and must have [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/browsers/). This does not currently work with other  You also need the latest version of [Python 3.7](https://www.python.org/downloads/release/python-374/) and you need [Git BASH](https://gitforwindows.org/) which is a command-line interface (CLI). You also need the packages:
 - Selenium
